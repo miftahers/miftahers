@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miftah Firdaus (Moved to gitlab https://gitlab.com/miftahers)</h1>
-<h3 align="center">I like to learn about Web and Backend development. <br>Currently studying: Golang and Javascript</h3>
+<h3 align="center">I like to learn about SDLC, especially on Backend development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miftahers&label=Profile%20views&color=0e75b6&style=flat" alt="miftahers" /> </p>
 
